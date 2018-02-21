@@ -1,5 +1,5 @@
 # android-barca-small-store
-an android small shop store for Barcelona gadget
+an android small shop store for Barcelona gadget. This project was a homework in Budapest university for technology and economics.
 
 ## demo
 
